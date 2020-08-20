@@ -541,14 +541,14 @@ div.d{
   font-family: "Rockness";
   font-size: 70px;
 }
+
 #fh5co-featured-menu .fh5co-item-wrap, #fh5co-gallery .fh5co-item-wrap, #fh5co-reservation-form .fh5co-item-wrap {
   padding-left: 20px;
-  padding-right: 20px;
+  padding-right: 1120px;
 }
 #fh5co-featured-menu .fh5co-item, #fh5co-gallery .fh5co-item, #fh5co-reservation-form .fh5co-item {
   float: left;
-  width: 100%;
-  backround: #fff;
+  width: 1000px;
 }
 #fh5co-featured-menu .fh5co-item.margin_top, #fh5co-gallery .fh5co-item.margin_top, #fh5co-reservation-form .fh5co-item.margin_top {
   margin-top: 150px;
@@ -564,6 +564,28 @@ div.d{
   font-family: "Gill Sans Light";
   font-size: 15px;
 }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  float:right;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  font-family: "Gill Sans Light";
+  color: black;
+  font-size: 15px;
+}
+
+th {
+  background-color:#cd8e97 ;
+}
+
+tr:hover {background-color:#f5f5f5;}
+
 #fh5co-featured-menu .fh5co-item .fh5co-price, #fh5co-gallery .fh5co-item .fh5co-price, #fh5co-reservation-form .fh5co-item .fh5co-price {
   font-style: 20px;
   margin-bottom: 20px;
@@ -928,6 +950,7 @@ div.d{
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
   border-radius: 4px;
+  font-family: "Gill Sans Light"
 }
 @media screen and (max-width: 768px) {
   #fh5co-timeline .timeline .timeline-heading > div h3 {
@@ -937,7 +960,10 @@ div.d{
 }
 #fh5co-timeline .timeline .timeline-heading h3 {
   color: #fff;
+  font-family: "Rockness";
 }
+
+
 #fh5co-timeline .timeline > li {
   margin-bottom: 20px;
   position: relative;
@@ -1050,6 +1076,8 @@ div.d{
 #fh5co-timeline .timeline-body > p,
 #fh5co-timeline .timeline-body > ul {
   margin-bottom: 0;
+  font-family: "Gill Sans Light";
+  color: black;
 }
 #fh5co-timeline .timeline-body > p + p {
   margin-top: 5px;
