@@ -1,0 +1,8 @@
+.gold-text {
+    color:#ddb65d;
+    -webkit-text-fill-color: transparent;
+    background: -webkit-linear-gradient(transparent, transparent),
+    url("/images/goldText/glitter4.jpg") repeat;
+    background: -o-linear-gradient(transparent, transparent);
+    -webkit-background-clip: text;
+}
