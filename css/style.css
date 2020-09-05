@@ -518,8 +518,9 @@ div.d{
 }
 
 #fh5co-about .img-wrap img {
-  margin-left: 400px;
-  margin-bottom: 30px;
+  float: right;
+  margin: 0px 0px 15px 15px;
+  margin-bottom: 1.875rem;
 }
 @media screen and (max-width: 992px) {
   #fh5co-about .img-wrap img {
