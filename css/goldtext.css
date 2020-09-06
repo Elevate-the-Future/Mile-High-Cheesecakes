@@ -2,7 +2,7 @@
     color:#ddb65d;
     -webkit-text-fill-color: transparent;
     background: -webkit-linear-gradient(transparent, transparent),
-    url("/images/goldText/glitter2.jpg") repeat;
+    url("images/goldText/glitter2.jpg") repeat;
     background: -o-linear-gradient(transparent, transparent);
     -webkit-background-clip: text;
 }
@@ -10,7 +10,7 @@
     color:#ddb65d;
     -webkit-text-fill-color: transparent;
     background: -webkit-linear-gradient(transparent, transparent),
-    url("/images/goldText/glitter2.jpg") repeat;
+    url("images/goldText/glitter2.jpg") repeat;
     background: -o-linear-gradient(transparent, transparent);
     -webkit-background-clip: text;
 }
@@ -19,7 +19,7 @@
     color:#ddb65d;
     -webkit-text-fill-color: transparent;
     background: -webkit-linear-gradient(transparent, transparent),
-    url("/images/goldText/glitter2.jpg") repeat;
+    url("images/goldText/glitter2.jpg") repeat;
     background: -o-linear-gradient(transparent, transparent);
     -webkit-background-clip: text;
 }
@@ -27,7 +27,7 @@
     color:#ddb65d;
     -webkit-text-fill-color: transparent;
     background: -webkit-linear-gradient(transparent, transparent),
-    url("/images/goldText/glitter2.jpg") repeat;
+    url("images/goldText/glitter2.jpg") repeat;
     background: -o-linear-gradient(transparent, transparent);
     -webkit-background-clip: text;
 }
