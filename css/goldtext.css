@@ -23,3 +23,20 @@
     background: -o-linear-gradient(transparent, transparent);
     -webkit-background-clip: text;
 }
+.section-heading h2 {
+    color:#ddb65d;
+    -webkit-text-fill-color: transparent;
+    background: -webkit-linear-gradient(transparent, transparent),
+    url("/images/goldText/glitter2.jpg") repeat;
+    background: -o-linear-gradient(transparent, transparent);
+    -webkit-background-clip: text;
+}
+
+.timeline-title {
+    color:#ddb65d;
+    -webkit-text-fill-color: transparent;
+    background: -webkit-linear-gradient(transparent, transparent),
+    url("/images/goldText/glitter2.jpg") repeat;
+    background: -o-linear-gradient(transparent, transparent);
+    -webkit-background-clip: text;
+} 

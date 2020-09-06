@@ -80,6 +80,13 @@ h1, h2, h3, h4, h5, h6, figure {
   font-family: "Rockness", "Gill Sans Light";
   margin: 0 0 20px 0;
 }
+blockquote  p {
+  font-family: "Gill Sans Light";
+  font-size: 1rem;
+}
+.author {
+  font-family: "Rockness";
+}
 
 h2 {
   font-family: "Rockness";
