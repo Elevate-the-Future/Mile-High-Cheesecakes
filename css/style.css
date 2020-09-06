@@ -757,15 +757,21 @@ tr:hover {background-color:#f5f5f5;}
 }
 @media screen and (max-width: 992px) {
   #fh5co-slider-wrwap .flexslider .slider-text-bg .desc {
-    background: #000;
+    background: rgb(19, 19, 19, 0.5);
+    color: white; 
   }
 }
+
 #fh5co-slider-wrwap .flexslider .slider-text-bg .desc h2 {
-  color: black !important;
+  color: white !important;
+}
+#fh5co-slider-wrwap .flexslider .slider-text-bg .desc h4 {
+  color: white !important;
 }
 @media screen and (max-width: 768px) {
   #fh5co-slider-wrwap .flexslider .slider-text-bg .desc p {
     display: none;
+    color: white;
   }
 }
 #fh5co-slider-wrwap .flexslider .slider-text,
